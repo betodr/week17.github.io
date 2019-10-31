@@ -7289,7 +7289,7 @@ body {
   font-size: 22px;
   line-height: 1.8;
   font-weight: 400;
-  color: #fff; }
+  color: black; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
