@@ -7294,7 +7294,8 @@ body {
     overflow: hidden;
     position: fixed;
     height: 100%;
-    width: 100%; }
+    width: 100%;
+    flood-color: white }
 
 a {
   -webkit-transition: .3s all ease;
@@ -8616,7 +8617,7 @@ textarea.form-control {
   
 
 .contact-section .contact-info p a {
-  color: #fff; }
+  color: black; }
 
 .contact-section .contact-info p span {
   font-weight: 500;
