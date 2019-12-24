@@ -8929,3 +8929,14 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    @media screen and (max-width:420px){
+      .wpspd-container{
+        position: relative;
+        background-color: white;
+      }
+      .alignnone{
+        position: relative;
+        
+      }
+    }
